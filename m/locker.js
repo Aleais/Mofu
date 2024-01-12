@@ -16,30 +16,29 @@ try {
     ClientID: CLIENT_ID,
     // Developer;
     DeveloperID: DEVELOPER_ID,
-    DeveloperName: 'aleais#2532',
+    DeveloperName: "aleais#2532",
     // Guild;
     // Primary,
     Main_GuildID: MAIN_GUILD_ID,
     // Secondary,
-    
+
     // And so on...
     // Not-Important:
     // Incomplete msg;
-    _incomplete: 'Incomplete...',
-    incomplete_: 'Incomplete.',
-    incomplete1: 'Incomplete... 🤧',
-    incomplete_1: 'Incomplete 🤧...',
-    incomplete2: '🤧 Incomplete...',
-    incomplete_2: '🤧Incomplete...',
-    incomplete: '🤧 Incomplete... 🤧',
-    incomplete: 'Incomplete...',
-    incomplete: 'Incomplete...',
-    incomplete: 'Incomplete...',
-    incomplete: 'This Is Incomplete...',
-    incomplete: 'This Is Incomplete 🤧...',
-    incomplete_last: '🚧 Under-construction 🚧',
+    _incomplete: "Incomplete...",
+    incomplete_: "Incomplete.",
+    incomplete1: "Incomplete... 🤧",
+    incomplete_1: "Incomplete 🤧...",
+    incomplete2: "🤧 Incomplete...",
+    incomplete_2: "🤧Incomplete...",
+    incomplete: "🤧 Incomplete... 🤧",
+    incomplete: "Incomplete...",
+    incomplete: "Incomplete...",
+    incomplete: "Incomplete...",
+    incomplete: "This Is Incomplete...",
+    incomplete: "This Is Incomplete 🤧...",
+    incomplete_last: "🚧 Under-construction 🚧",
     // Error msg;
-    
   };
 } catch (error) {
   Console.error(`Error: \n${error}`);
