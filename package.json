@@ -13,6 +13,7 @@
     "@types/node": "^18.0.6",
     "commandkit": "^0.1.10",
     "discord-api-types": "^0.37.67",
+    "discord-rpc": "^4.0.1",
     "discord.js": "^14.14.1",
     "djs-commander": "^0.0.50",
     "main": "^1000.0.1",
